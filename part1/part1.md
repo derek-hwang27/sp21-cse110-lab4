@@ -27,7 +27,7 @@
 
 12D. student['Favorite Teacher'].name
 
-12E. student.courseLoad[1]
+12E. student.courseLoad[0]
 
 13A. 32, concatenate 2 to 3.
 
